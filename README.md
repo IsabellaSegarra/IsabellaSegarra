@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi I'm Isabella! 
 
 <!--
 **IsabellaSegarra/IsabellaSegarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🐦‍⬛ About me
+Environmental data scientist pursuing my MS in Environmental Data Science at UC Santa Barbara's Bren School. My background spans fungal ecology, phenology, and grassland invasion dynamics from my research at UC Merced. I am passionate about leveraging data to advance endangered species conservation, agroecology, and sustainability. 
 
-- 🔭 I’m currently working on my [Masters in Environmental Data Science] (https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the University of California, Santa Barbara in the [Bren School of Environmental Data Science](https://bren.ucsb.edu/). 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Education
+UC Merced, Bachelors of Science in Environmental Science (2020-2023)
+UC Santa Barbara, Masters of Environmental Data Science (Expected June 2026)
+
+ 🌱 Let's connect!
+[Contact me on Linkedin](https://www.linkedin.com/in/isabella-segarra-5ba5002b5/)
